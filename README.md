@@ -6,5 +6,6 @@ docker-compose up -d
 `
 
 default login
-username: user
+username: user,
+
 password: password
